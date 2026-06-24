@@ -1,0 +1,186 @@
+---
+title: "Career Research Essay: Preparing for Careers in Omnichannel Retailing and E-Commerce"
+author: Julie Diaz
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: flatly
+    css: styles.css
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Introduction {#sec-introduction}
+
+The retail landscape has undergone a fundamental transformation over the past decade. Consumers today no longer shop through a single channel they browse on their phones, research on their laptops, purchase in-store, and expect seamless returns anywhere they choose. This integration of digital and physical retail experiences is what defines **omnichannel retailing**, and it has created a new generation of careers that blend marketing strategy, data analytics, digital technology, and customer experience design.
+
+As e-commerce continues to grow and retailers invest heavily in platforms like Shopify, TikTok Shop, Google Shopping, and Amazon Marketplace, the demand for professionals who understand both the art and science of retail has never been higher. Roles in omnichannel retailing now span product merchandising, digital strategy, retail analytics, and consumer insights requiring candidates to be as comfortable reading a dashboard as they are crafting a compelling product listing.
+
+For this research essay, I explored three job postings found on LinkedIn that reflect the breadth of omnichannel retail careers: a **Merchandise Coordinator** role at MINISO USA, a **Strategy & Analytics Analyst** position at TikTok Shop, and a **Consumer Products Coordinator – Retail Dev** role at Mattel, Inc. Each posting offers a distinct window into how modern retail organizations are hiring for cross-functional, data-informed, and customer-centered skill sets.
+
+------------------------------------------------------------------------
+
+## Summary of Job Postings {#sec-job-postings}
+
+::: panel-tabset
+### Job 1: MINISO USA
+
+**Merchandise Coordinator** **Company:** MINISO USA **Location:** West Covina, CA **Type:** Full-time **Source:** [LinkedIn – MINISO USA Merchandise Coordinator](https://www.linkedin.com/jobs/view/4424634796/)
+
+MINISO USA, a global lifestyle and consumer goods retailer known for its affordable, design-driven products, is seeking a Merchandise Coordinator to support its retail merchandising operations. This role is responsible for coordinating product assortments, tracking inventory levels, managing vendor communications, and supporting the buying team with product data entry and catalog management. The coordinator is expected to work cross-functionally with store operations, logistics, and marketing teams to ensure product availability and visual consistency across retail channels. The role emphasizes attention to detail, proficiency with Excel or similar data tools, and the ability to analyze sales performance data to support buying decisions.
+
+> *"Over 100 people clicked apply - signaling strong competition and high demand for this role type in the Southern California retail market."*
+
+### Job 2: TikTok
+
+**TikTok Shop – Strategy & Analytics Analyst** **Company:** TikTok **Location:** Los Angeles, CA **Type:** Full-time, On-site **Source:** [LinkedIn – TikTok Shop Strategy & Analytics Analyst](https://www.linkedin.com/jobs/view/4430360019/)
+
+TikTok's commerce division, TikTok Shop, is actively building out its analytics infrastructure as the platform evolves into a full-scale social commerce marketplace. This Strategy & Analytics Analyst role focuses on turning large datasets into actionable insights that inform product strategy, seller growth, and buyer behavior on the platform. Responsibilities include building dashboards, running A/B tests, conducting funnel analysis, and collaborating with cross-functional teams including product, sales, and operations. The role requires strong proficiency in SQL, data visualization tools (such as Tableau or Looker), and a deep understanding of e-commerce metrics such as conversion rates, GMV (Gross Merchandise Value), and customer lifetime value.
+
+> *"Actively reviewing applicants - this posting reflects TikTok Shop's rapid investment in commerce analytics as a core business function."*
+
+### Job 3: Mattel
+
+**Consumer Products Coordinator – Retail Dev** **Company:** Mattel, Inc. **Location:** El Segundo, CA **Type:** Full-time **Pay:** \$27/hr – \$36.50/hr **Source:** [LinkedIn – Mattel Consumer Products Coordinator](https://www.linkedin.com/jobs/view/4402670766/)
+
+Mattel, one of the world's most iconic toy and consumer products companies, is hiring a Consumer Products Coordinator for its Retail Development team. This role supports the retail licensing and brand strategy functions by coordinating product development timelines, managing licensee communications, preparing retail presentations, and tracking product approvals. The coordinator works closely with brand managers, retail buyers, and external licensee partners to ensure product lines are retail-ready and aligned with Mattel's brand standards. Key tools include Microsoft Office (especially Excel and PowerPoint), and the role requires strong organizational skills, project coordination capabilities, and an ability to manage multiple product lines simultaneously across retail accounts.
+
+> *"Reposted 4 days ago - suggesting Mattel is actively scaling its retail development team, offering a rare opportunity at a Fortune 500 consumer brand."*
+:::
+
+------------------------------------------------------------------------
+
+## Skills and Knowledge Required {#sec-skills}
+
+After reviewing all three job postings, several clear patterns emerge in what employers across these omnichannel retail roles are looking for.
+
+### Technical Skills
+
+```{r}
+#| label: tbl-skills
+#| tbl-cap: "Comparison of Technical Skills Across Three Job Postings"
+#| echo: false
+#| warning: false
+
+library(knitr)
+
+skills_table <- data.frame(
+  Skill = c(
+    "Excel / Google Sheets",
+    "Data Analysis / Analytics",
+    "SQL / Database Tools",
+    "E-Commerce Platform Knowledge",
+    "Product Catalog / Data Entry",
+    "Dashboard / Visualization Tools",
+    "PowerPoint / Presentations",
+    "Project Coordination Tools"
+  ),
+  MINISO = c("✅", "✅", "—", "✅", "✅", "—", "✅", "✅"),
+  TikTok = c("✅", "✅", "✅", "✅", "—", "✅", "✅", "✅"),
+  Mattel = c("✅", "✅", "—", "—", "✅", "—", "✅", "✅")
+)
+
+kable(skills_table, align = "lccc")
+```
+
+As shown in @tbl-skills, **Excel and data analysis skills** appear across all three postings, making them foundational for anyone pursuing an omnichannel retail career. The TikTok role stands out for requiring more advanced analytical tools like SQL and Tableau, reflecting the data-intensive nature of platform commerce analytics.
+
+### Soft Skills
+
+Beyond technical proficiency, all three postings emphasize a recurring cluster of professional competencies:
+
+-   **Cross-functional collaboration** — All three roles require working with teams across departments (merchandising, logistics, marketing, product).
+-   **Attention to detail** — Especially critical in merchandising and product coordination roles where data accuracy directly affects inventory and sales.
+-   **Project management** — Managing multiple product lines, timelines, and vendor relationships simultaneously.
+-   **Communication skills** — Both written and verbal, particularly for roles involving licensee relations (Mattel) or seller partnerships (TikTok).
+-   **Problem-solving and adaptability** — A recurring theme in e-commerce and retail analytics where platform conditions shift rapidly.
+
+::: callout-note
+**Key Insight:** Employers in omnichannel retail increasingly want candidates who combine **hard analytical skills** with **strong interpersonal and project management capabilities**. A technical skill alone is not enough, the ability to communicate insights clearly is equally valued.
+:::
+
+------------------------------------------------------------------------
+
+## Connection to This Course and the MSDM Program {#sec-course-connection}
+
+### Omnichannel Retailing Course Connections
+
+This course directly equips students with many of the skills these employers are seeking. The **Shopify store development** project, for example, provides hands-on experience with the mechanics of an e-commerce platform understanding how products are listed, categorized, and optimized for the customer journey. This experience is directly relevant to both the MINISO Merchandise Coordinator role (product catalog management) and the TikTok Shop analyst role (understanding e-commerce platform dynamics).
+
+The **Google Analytics 4 (GA4)** training in this course develops the data literacy needed for roles like the TikTok Shop analyst, where understanding traffic funnels, conversion rates, and user behavior is central to the job. Similarly, **Google Merchant Center** and **Google Shopping Ads** work builds familiarity with product feed management and digital advertising performance skills increasingly expected in retail marketing and e-commerce coordinator roles.
+
+The **Group Consulting Project for CPP Farm Store** deserves special mention. This real-world project simulates what all three job postings require: cross-functional collaboration, retail strategy development, and data-informed decision-making under real constraints. It is exactly the kind of portfolio evidence employers look for in early-career candidates.
+
+::: callout-tip
+**Portfolio Tip:** Document your Shopify store, GA4 dashboards, and consulting project outcomes carefully. These are tangible deliverables you can share in job applications and interviews.
+:::
+
+### MSDM Program Connections
+
+The broader MSDM program strengthens candidate readiness for these roles through several complementary courses:
+
+| MSDM Course Area | Connection to Job Postings |
+|------------------------------------|------------------------------------|
+| **Marketing Analytics** | Directly prepares students for the TikTok Shop analyst role data interpretation, KPI tracking, funnel analysis |
+| **Consumer Behavior** | Supports customer experience thinking valued in all three roles |
+| **Digital Marketing** | Builds channel knowledge applicable to retail marketing and e-commerce coordination |
+| **Brand Management** | Highly relevant for the Mattel role, which involves protecting and extending brand equity through retail licensing |
+| **Search Engine Marketing** | Prepares students for shopping ads and digital merchandising responsibilities |
+| **Business Communication** | Critical for all three roles, which require vendor/partner communication and cross-team presentations |
+| **Consulting Projects** | Provides applied, client-facing experience that differentiates candidates |
+
+: MSDM Course Connections to Job Postings {#tbl-msdm}
+
+Collectively, the MSDM curriculum provides a well-rounded foundation that addresses both the analytical rigor required in roles like TikTok Shop analyst and the creative, brand-oriented thinking required in roles like Mattel's Retail Dev Coordinator. The program's emphasis on real-world projects and applied learning is a significant advantage in a competitive applicant pool.
+
+------------------------------------------------------------------------
+
+## Personal Career Reflection and Next Steps {#sec-reflection}
+
+Of the three roles I researched, the **TikTok Shop Strategy & Analytics Analyst** position is the one that excites me most. The intersection of social commerce, data analysis, and platform strategy feels like the frontier of where retail is heading and TikTok Shop is arguably the most dynamic commerce environment in the world right now. The idea of turning behavioral data from millions of buyers and sellers into strategic decisions that shape how products are discovered and sold is genuinely compelling to me.
+
+That said, I recognize that this role also represents my biggest skills gap. The TikTok posting likely expects SQL proficiency, experience with BI tools like Tableau or Looker, and comfort working with large datasets. These are skills I am still building. My current strengths lie more in the coordination and communication side project management, cross-functional collaboration, and marketing content which align more naturally with the MINISO and Mattel roles at this point in my career.
+
+::: callout-important
+**My Two Concrete Next Steps:**
+
+1.  **Build SQL skills** through a free resource like [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/) or [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) this semester. Even entry-level exposure to SQL will differentiate my resume for analytics-adjacent roles.
+
+2.  **Develop a portfolio project** using the GA4 and Google Merchant Center work from this course. I will document the CPP Farm Store consulting project as a case study including the problem, approach, data used, and outcomes — and publish it on my LinkedIn profile.
+:::
+
+Additionally, I plan to update my LinkedIn profile to reflect the language employers are using in these postings: terms like *product catalog management*, *e-commerce operations*, *retail analytics*, and *cross-functional collaboration*. Mirroring the vocabulary of job postings is a simple but effective way to improve visibility with hiring managers and Applicant Tracking Systems (ATS).[^1]
+
+[^1]: Applicant Tracking Systems (ATS) are software tools used by employers to screen resumes before a human reviewer sees them. Matching the keyword language from job postings significantly improves the chance of passing ATS filters.
+
+The omnichannel retail industry is hiring now, and the MSDM program particularly this course has given me more relevant, hands-on preparation than I initially realized. My goal is to enter this field within one year of graduation, ideally in an e-commerce coordinator or retail analytics role that allows me to grow toward a more strategy-focused position over time.
+
+------------------------------------------------------------------------
+
+## References {#sec-references}
+
+1.  MINISO USA. (2025). *Merchandise Coordinator* \[Job posting\]. LinkedIn. <https://www.linkedin.com/jobs/view/4424634796/>
+
+2.  TikTok. (2025). *TikTok Shop – Strategy & Analytics Analyst* \[Job posting\]. LinkedIn. <https://www.linkedin.com/jobs/view/4430360019/>
+
+3.  Mattel, Inc. (2025). *Consumer Products Coordinator – Retail Dev* \[Job posting\]. LinkedIn. <https://www.linkedin.com/jobs/view/4402670766/>
+
+------------------------------------------------------------------------
+
+## Appendix {#sec-appendix}
+
+::: {.callout-note appearance="minimal"}
+**GitHub Repository:** \[Add your GitHub repo URL here\]
+
+**GitHub Pages (Published HTML):** \[Add your GitHub Pages URL here
+:::
