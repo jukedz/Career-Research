@@ -39,7 +39,7 @@ For this research essay, I explored three job postings found on LinkedIn that re
 
 MINISO USA, a global lifestyle and consumer goods retailer known for its affordable, design-driven products, is seeking a Merchandise Coordinator to support its retail merchandising operations. This role is responsible for coordinating product assortments, tracking inventory levels, managing vendor communications, and supporting the buying team with product data entry and catalog management. The coordinator is expected to work cross-functionally with store operations, logistics, and marketing teams to ensure product availability and visual consistency across retail channels. The role emphasizes attention to detail, proficiency with Excel or similar data tools, and the ability to analyze sales performance data to support buying decisions.
 
-> *"Over 100 people clicked apply - signaling strong competition and high demand for this role type in the Southern California retail market."*
+> *"Over 100 people clicked apply — signaling strong competition and high demand for this role type in the Southern California retail market."*
 
 ### Job 2: TikTok
 
@@ -47,7 +47,7 @@ MINISO USA, a global lifestyle and consumer goods retailer known for its afforda
 
 TikTok's commerce division, TikTok Shop, is actively building out its analytics infrastructure as the platform evolves into a full-scale social commerce marketplace. This Strategy & Analytics Analyst role focuses on turning large datasets into actionable insights that inform product strategy, seller growth, and buyer behavior on the platform. Responsibilities include building dashboards, running A/B tests, conducting funnel analysis, and collaborating with cross-functional teams including product, sales, and operations. The role requires strong proficiency in SQL, data visualization tools (such as Tableau or Looker), and a deep understanding of e-commerce metrics such as conversion rates, GMV (Gross Merchandise Value), and customer lifetime value.
 
-> *"Actively reviewing applicants - this posting reflects TikTok Shop's rapid investment in commerce analytics as a core business function."*
+> *"Actively reviewing applicants — this posting reflects TikTok Shop's rapid investment in commerce analytics as a core business function."*
 
 ### Job 3: Mattel
 
@@ -55,7 +55,7 @@ TikTok's commerce division, TikTok Shop, is actively building out its analytics 
 
 Mattel, one of the world's most iconic toy and consumer products companies, is hiring a Consumer Products Coordinator for its Retail Development team. This role supports the retail licensing and brand strategy functions by coordinating product development timelines, managing licensee communications, preparing retail presentations, and tracking product approvals. The coordinator works closely with brand managers, retail buyers, and external licensee partners to ensure product lines are retail-ready and aligned with Mattel's brand standards. Key tools include Microsoft Office (especially Excel and PowerPoint), and the role requires strong organizational skills, project coordination capabilities, and an ability to manage multiple product lines simultaneously across retail accounts.
 
-> *"Reposted 4 days ago - suggesting Mattel is actively scaling its retail development team, offering a rare opportunity at a Fortune 500 consumer brand."*
+> *"Reposted 4 days ago — suggesting Mattel is actively scaling its retail development team, offering a rare opportunity at a Fortune 500 consumer brand."*
 :::
 
 ------------------------------------------------------------------------
@@ -106,7 +106,7 @@ Beyond technical proficiency, all three postings emphasize a recurring cluster o
 -   **Problem-solving and adaptability** — A recurring theme in e-commerce and retail analytics where platform conditions shift rapidly.
 
 ::: callout-note
-**Key Insight:** Employers in omnichannel retail increasingly want candidates who combine **hard analytical skills** with **strong interpersonal and project management capabilities**. A technical skill alone is not enough, the ability to communicate insights clearly is equally valued.
+**Key Insight:** Employers in omnichannel retail increasingly want candidates who combine **hard analytical skills** with **strong interpersonal and project management capabilities**. A technical skill alone is not enough the ability to communicate insights clearly is equally valued.
 :::
 
 ------------------------------------------------------------------------
@@ -131,7 +131,7 @@ The broader MSDM program strengthens candidate readiness for these roles through
 
 | MSDM Course Area | Connection to Job Postings |
 |------------------------------------|------------------------------------|
-| **Marketing Analytics** | Directly prepares students for the TikTok Shop analyst role — data interpretation, KPI tracking, funnel analysis |
+| **Marketing Analytics** | Directly prepares students for the TikTok Shop analyst role data interpretation, KPI tracking, funnel analysis |
 | **Consumer Behavior** | Supports customer experience thinking valued in all three roles |
 | **Digital Marketing** | Builds channel knowledge applicable to retail marketing and e-commerce coordination |
 | **Brand Management** | Highly relevant for the Mattel role, which involves protecting and extending brand equity through retail licensing |
@@ -156,14 +156,14 @@ That said, I recognize that this role also represents my biggest skills gap. The
 
 1.  **Build SQL skills** through a free resource like [Mode Analytics SQL Tutorial](https://mode.com/sql-tutorial/) or [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) this semester. Even entry-level exposure to SQL will differentiate my resume for analytics-adjacent roles.
 
-2.  **Develop a portfolio project** using the GA4 and Google Merchant Center work from this course. I will document the CPP Farm Store consulting project as a case study including the problem, approach, data used, and outcomes — and publish it on my LinkedIn profile.
+2.  **Develop a portfolio project** using the GA4 and Google Merchant Center work from this course. I will document the CPP Farm Store consulting project as a case study including the problem, approach, data used, and outcomes and publish it on my LinkedIn profile.
 :::
 
 Additionally, I plan to update my LinkedIn profile to reflect the language employers are using in these postings: terms like *product catalog management*, *e-commerce operations*, *retail analytics*, and *cross-functional collaboration*. Mirroring the vocabulary of job postings is a simple but effective way to improve visibility with hiring managers and Applicant Tracking Systems (ATS).[^1]
 
 [^1]: Applicant Tracking Systems (ATS) are software tools used by employers to screen resumes before a human reviewer sees them. Matching the keyword language from job postings significantly improves the chance of passing ATS filters.
 
-The omnichannel retail industry is hiring now, and the MSDM program particularly this course has given me more relevant, hands-on preparation than I initially realized. My goal is to enter this field within one year of graduation, ideally in an e-commerce coordinator or retail analytics role that allows me to grow toward a more strategy-focused position over time.
+The omnichannel retail industry is hiring now, and the MSDM program — particularly this course — has given me more relevant, hands-on preparation than I initially realized. My goal is to enter this field within one year of graduation, ideally in an e-commerce coordinator or retail analytics role that allows me to grow toward a more strategy-focused position over time.
 
 ------------------------------------------------------------------------
 
@@ -180,9 +180,7 @@ The omnichannel retail industry is hiring now, and the MSDM program particularly
 ## Appendix {#sec-appendix}
 
 ::: {.callout-note appearance="minimal"}
-**GitHub Repository:** \[Add your GitHub repo URL here\]
+**GitHub Repository:** <https://github.com/jukedz/Career-Research>
 
-**GitHub Pages (Published HTML):** \[Add your GitHub Pages URL here\]
-
-*Screenshots of all three job postings are saved locally in the project folder as backup documentation.*
+**GitHub Pages (Published HTML):** <https://jukedz.github.io/Career-Research/>
 :::

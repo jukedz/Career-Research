@@ -3,11 +3,11 @@
     "path": "~/IBM 6520 - Market Forecasting/IBM 6300 - Retailing in Digital Economy/Homework/6-28-26/Career Research Essay/Career_Research.qmd",
     "project_path": "Career_Research.qmd",
     "type": "quarto_markdown",
-    "hash": "4135023745",
+    "hash": "311507868",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1782274945189.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 1,
     "properties": {
         "rmdVisualMode": "true",
@@ -18,14 +18,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "13339:11633.4287109375"
+        "rmdVisualModeLocation": "118:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1782274111,
+    "lastKnownWriteTime": 1782275774,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1782275012612,
+    "last_content_update": 1782275774585,
     "read_only": false,
     "read_only_alternatives": []
 }
